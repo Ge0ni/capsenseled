@@ -1,0 +1,6 @@
+C:\Users\owono\Documents\PSoC Creator\capsenseled\capsenseled.cydsn\capsenseled.cyprj|f45058cf-71aa-45cc-9b96-e2f497755017
+C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|bd4d4721-fb2f-4c02-baee-fb1f417fc1b3
+C:\Users\owono\Documents\PSoC Creator\4.1\Downloads ( 4.1).cylib\Downloads ( 4.1).cyprj|63d69442-a3e3-4938-a376-c436ac6a4291
+C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|b1f5d6ef-1d6d-426e-aa98-693127b4da7f
+C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|d1fc931b-b1fc-493e-b164-fee1ea27504a
+C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|1d993f64-f9df-4f4e-bea8-af19ad1d7725
